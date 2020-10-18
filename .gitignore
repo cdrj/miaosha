@@ -18,12 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
-src/main/resources/static/assets
-src/main/resources/static/admin
-src/main/resources/static/css
-src/main/resources/static/img
-src/main/resources/static/fonts
-src/main/resources/static/js
+src/main/resources/static/
+
 
 
 ### NetBeans ###
